@@ -1,4 +1,4 @@
-# PASSWORD RESET FLOW APPLICATION
+# PASSWORD RESET BACKEND APPLICATION
 
 This repository contains a Node.js application for user authentication and password reset functionality using Express, MongoDB, bcrypt, and crypto. It provides signup, signin, forgot password, and reset password routes.
 
